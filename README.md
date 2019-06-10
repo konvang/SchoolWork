@@ -1,7 +1,7 @@
 # SchoolWork
 Course work
 
-The 5.1 OrderEntrySystem is an entry system that is stictly an MVVM build
+The 5.1 OrderEntrySystem is an entry system that is strictly an MVVM build
 
 The ADN OrderEntrySystem is the 5.1 entry system that is consolidated with generics and reflection. 
 (Same application but with smaller code = faster application) \
