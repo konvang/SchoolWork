@@ -1,0 +1,40 @@
+F:\ASP.Net\Module 1\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+F:\ASP.Net\Module 1\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+F:\ASP.Net\Module 1\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+F:\ASP.Net\Module 1\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+F:\ASP.Net\Module 1\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+F:\ASP.Net\Module 1\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\ASP.Net\Module 1\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfoInputs.cache
+F:\ASP.Net\Module 1\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+F:\ASP.Net\Module 1\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+F:\ASP.Net\Module 1\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+F:\ASP.Net\Module 1\Assignment 2\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+F:\ASP.Net\Module 1\Assignment 2\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+F:\ASP.Net\Module 1\Assignment 2\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+F:\ASP.Net\Module 1\Assignment 2\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+F:\ASP.Net\Module 1\Assignment 2\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+F:\ASP.Net\Module 1\Assignment 2\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\ASP.Net\Module 1\Assignment 2\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfoInputs.cache
+F:\ASP.Net\Module 1\Assignment 2\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+F:\ASP.Net\Module 1\Assignment 2\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+F:\ASP.Net\Module 1\Assignment 2\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+F:\ASP.Net\Module 1\Assignment 3\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+F:\ASP.Net\Module 1\Assignment 3\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+F:\ASP.Net\Module 1\Assignment 3\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+F:\ASP.Net\Module 1\Assignment 3\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+F:\ASP.Net\Module 1\Assignment 3\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+F:\ASP.Net\Module 1\Assignment 3\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\ASP.Net\Module 1\Assignment 3\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfoInputs.cache
+F:\ASP.Net\Module 1\Assignment 3\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+F:\ASP.Net\Module 1\Assignment 3\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+F:\ASP.Net\Module 1\Assignment 3\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+F:\ASP.Net\Module 1\Assignment 4\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+F:\ASP.Net\Module 1\Assignment 4\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+F:\ASP.Net\Module 1\Assignment 4\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+F:\ASP.Net\Module 1\Assignment 4\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+F:\ASP.Net\Module 1\Assignment 4\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+F:\ASP.Net\Module 1\Assignment 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csproj.CoreCompileInputs.cache
+F:\ASP.Net\Module 1\Assignment 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfoInputs.cache
+F:\ASP.Net\Module 1\Assignment 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+F:\ASP.Net\Module 1\Assignment 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+F:\ASP.Net\Module 1\Assignment 4\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
