@@ -1,0 +1,58 @@
+﻿<UserControl x:Class="OrderEntrySystem.CustomerView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:OrderEntrySystem"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <ResourceDictionary Source="SharedResources.xaml"/>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Margin="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="4" />
+                <ColumnDefinition Width="300" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="4" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="4" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="4" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="4" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="4" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="4" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="4" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Content="First Name:" HorizontalAlignment="Right" Target="{Binding ElementName=firstNameTextBox}" />
+            <TextBox x:Name="firstNameTextBox" Grid.Row="0" Grid.Column="2" Text="{Binding Path=FirstName, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" Style="{StaticResource ResourceKey=ValidationStyleTextBox}" />
+            <Label Grid.Row="2" Grid.Column="0" Content="Last Name:" HorizontalAlignment="Right" Target="{Binding ElementName=lastNameTextBox}" />
+            <TextBox x:Name="lastNameTextBox" Grid.Row="2" Grid.Column="2" Text="{Binding Path=LastName, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" Style="{StaticResource ResourceKey=ValidationStyleTextBox}" />
+            <Label Grid.Row="4" Grid.Column="0" Content="Phone:" HorizontalAlignment="Right" Target="{Binding ElementName=phoneTextBox}" />
+            <TextBox x:Name="phoneTextBox" Grid.Row="4" Grid.Column="2" Text="{Binding Path=Phone, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" Style="{StaticResource ResourceKey=ValidationStyleTextBox}" />
+            <Label Grid.Row="6" Grid.Column="0" Content="Email:" HorizontalAlignment="Right" Target="{Binding ElementName=emailTextBox}" />
+            <TextBox x:Name="emailTextBox" Grid.Row="6" Grid.Column="2" Text="{Binding Path=Email, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" Style="{StaticResource ResourceKey=ValidationStyleTextBox}" />
+            <Label Grid.Row="8" Grid.Column="0" Content="Address:" HorizontalAlignment="Right" Target="{Binding ElementName=addressTextBox}" />
+            <TextBox x:Name="addressTextBox" Grid.Row="8" Grid.Column="2" Text="{Binding Path=Address, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" Style="{StaticResource ResourceKey=ValidationStyleTextBox}" />
+            <Label Grid.Row="10" Grid.Column="0" Content="City:" HorizontalAlignment="Right" Target="{Binding ElementName=cityTextBox}" />
+            <TextBox x:Name="cityTextBox" Grid.Row="10" Grid.Column="2" Text="{Binding Path=City, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" Style="{StaticResource ResourceKey=ValidationStyleTextBox}" />
+            <Label Grid.Row="12" Grid.Column="0" Content="State:" HorizontalAlignment="Right" Target="{Binding ElementName=stateTextBox}" />
+            <TextBox x:Name="stateTextBox" Grid.Row="12" Grid.Column="2" Text="{Binding Path=State, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" Style="{StaticResource ResourceKey=ValidationStyleTextBox}" />
+            <local:MultiOrderView Grid.Row="14" Grid.Column="2" DataContext="{Binding Path=FilteredOrderViewModel}" />
+        </Grid>
+        <ContentControl Grid.Row="1" Content="{Binding Path=Commands}" ContentTemplate="{StaticResource NestedCommandTemplate}" VerticalAlignment="Bottom" Margin="0,0,4,4" />
+    </Grid>
+</UserControl>

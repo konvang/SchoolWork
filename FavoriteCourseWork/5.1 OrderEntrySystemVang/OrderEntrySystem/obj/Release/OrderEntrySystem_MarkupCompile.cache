@@ -1,0 +1,20 @@
+﻿OrderEntrySystem
+
+
+winexe
+C#
+.cs
+E:\School\Software Arch\LP 5\5.1 OrderEntrySystemVang\OrderEntrySystem\obj\Release\
+OrderEntrySystem
+none
+false
+TRACE
+E:\School\Software Arch\LP 5\5.1 OrderEntrySystemVang\OrderEntrySystem\App.xaml
+19-827193256
+
+42-1183601538
+21988993410
+Views\AddCategoryView.xaml;Views\MultiOrderLineView.xaml;Views\MultiCategoryView.xaml;Views\NumberOfItemsSelectedView.xaml;Views\OrderLineView.xaml;Views\CustomerView.xaml;Views\CategoryView.xaml;Views\PagingView.xaml;Views\ProductView.xaml;Views\LocationView.xaml;Views\MainWindow.xaml;Views\MultiCustomerView.xaml;Views\MultiProductView.xaml;Views\MultiLocationView.xaml;Views\MultiOrderView.xaml;Views\OrderView.xaml;Views\ReportView.xaml;Views\SharedResources.xaml;Views\WorkspaceWindow.xaml;
+
+False
+

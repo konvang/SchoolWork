@@ -1,0 +1,90 @@
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll.config
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.pdb
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.pdb
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll.config
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csprojAssemblyReference.cache
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CopyComplete
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 1.1 LastName\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.pdb
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll.config
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.pdb
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.dll
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.pdb
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll.config
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.xml
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csprojAssemblyReference.cache
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CoreCompileInputs.cache
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CopyComplete
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.dll
+F:\Advance DotNET\Moduel 1 Generics\1.2\ADN OrderEntrySystem 1.2 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.pdb
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll.config
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.pdb
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.dll
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.pdb
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll.config
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.xml
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csprojAssemblyReference.cache
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CoreCompileInputs.cache
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CopyComplete
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.dll
+F:\Advance DotNET\Moduel 1 Generics\1.3\ADN OrderEntrySystem 1.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.pdb
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll.config
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.pdb
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.pdb
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll.config
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csprojAssemblyReference.cache
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CopyComplete
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.1 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.pdb
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll.config
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.pdb
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.pdb
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll.config
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csprojAssemblyReference.cache
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CopyComplete
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.dll
+C:\Users\tlee2\Downloads\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.pdb
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll.config
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.dll
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryDataAccess.pdb
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.dll
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.pdb
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\OrderEntryEngine.dll.config
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.xml
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csprojAssemblyReference.cache
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CoreCompileInputs.cache
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.csproj.CopyComplete
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.dll
+F:\Advance DotNET\Moduel 2 Reflection\2.4\ADN OrderEntrySystem 2.3 Vang\OrderEntryDataAccess\obj\Debug\OrderEntryDataAccess.pdb

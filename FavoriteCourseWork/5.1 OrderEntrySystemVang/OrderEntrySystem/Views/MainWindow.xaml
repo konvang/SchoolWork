@@ -1,0 +1,24 @@
+﻿<Window x:Class="OrderEntrySystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:OrderEntrySystem"
+        Title="{Binding Path=DisplayName}" Height="350" Width="600">
+    <Window.Resources>
+        <ResourceDictionary Source="SharedResources.xaml"/>
+    </Window.Resources>
+    <DockPanel>
+        <Grid Margin="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="4" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Border Width="100">
+                <HeaderedContentControl Header="Tasks" Style="{StaticResource MainHeaderStyle}" Content="{Binding Path=Commands}" ContentTemplate="{StaticResource CommandsTemplate}"/>
+            </Border>
+            <Border Grid.Column="2">
+                <HeaderedContentControl Header="Workspaces" Style="{StaticResource MainHeaderStyle}" Content="{Binding Path=ViewModels}" ContentTemplate="{StaticResource WorkspacesTemplate}"/>
+            </Border>
+        </Grid>
+    </DockPanel>
+</Window>

@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="OrderEntrySystem.MultiOrderLineView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:OrderEntrySystem"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <ResourceDictionary Source="SharedResources.xaml" />
+    </UserControl.Resources>
+    <Grid>
+        <DockPanel>
+            <Grid DockPanel.Dock="Bottom">
+                <local:NumberOfItemsSelectedView/>
+            </Grid>
+            <ListView ItemContainerStyle="{StaticResource ResourceKey=ListViewStyle}" ItemsSource="{Binding Path=AllLines}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Product" Width="120" DisplayMemberBinding="{Binding Path=Product}" />
+                        <GridViewColumn Header="Quantity" Width="55" DisplayMemberBinding="{Binding Path=Quantity}" />
+                        <GridViewColumn Header="Total" Width="60" DisplayMemberBinding="{Binding Path=ProductTotal}"/>
+                        <GridViewColumn Header="Tax" Width="50" DisplayMemberBinding="{Binding Path=TaxTotal}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </DockPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,20 @@
+﻿OrderEntrySystem
+
+
+winexe
+C#
+.cs
+C:\Users\tlee2\Downloads\SA OrderEntrySystem 4.3 End\OrderEntrySystem\obj\Debug\
+OrderEntrySystem
+none
+false
+DEBUG;TRACE
+C:\Users\tlee2\Downloads\SA OrderEntrySystem 4.3 End\OrderEntrySystem\App.xaml
+19-827193256
+
+46619421515
+21-1845195468
+Views\AddCategoryView.xaml;Views\MultiOrderLineView.xaml;Views\MultiCategoryView.xaml;Views\NumberOfItemsSelectedView.xaml;Views\OrderLineView.xaml;Views\CustomerView.xaml;Views\CategoryView.xaml;Views\PagingView.xaml;Views\ProductView.xaml;Views\LocationView.xaml;Views\MainWindow.xaml;Views\MultiCustomerView.xaml;Views\MultiProductView.xaml;Views\MultiLocationView.xaml;Views\MultiOrderView.xaml;Views\OrderView.xaml;Views\ReportView.xaml;Views\SharedResources.xaml;Views\WorkspaceWindow.xaml;
+
+True
+

@@ -1,0 +1,7 @@
+F:\Advance DotNET\Module 4 Window Services\ADN OrderEntrySystem 4.1 Vang\ADN OrderEntrySystem 4.1 Vang\FileMoverConsole\bin\Debug\FileMoverConsole.exe.config
+F:\Advance DotNET\Module 4 Window Services\ADN OrderEntrySystem 4.1 Vang\ADN OrderEntrySystem 4.1 Vang\FileMoverConsole\bin\Debug\FileMoverConsole.exe
+F:\Advance DotNET\Module 4 Window Services\ADN OrderEntrySystem 4.1 Vang\ADN OrderEntrySystem 4.1 Vang\FileMoverConsole\bin\Debug\FileMoverConsole.pdb
+F:\Advance DotNET\Module 4 Window Services\ADN OrderEntrySystem 4.1 Vang\ADN OrderEntrySystem 4.1 Vang\FileMoverConsole\obj\Debug\FileMoverConsole.csprojAssemblyReference.cache
+F:\Advance DotNET\Module 4 Window Services\ADN OrderEntrySystem 4.1 Vang\ADN OrderEntrySystem 4.1 Vang\FileMoverConsole\obj\Debug\FileMoverConsole.csproj.CoreCompileInputs.cache
+F:\Advance DotNET\Module 4 Window Services\ADN OrderEntrySystem 4.1 Vang\ADN OrderEntrySystem 4.1 Vang\FileMoverConsole\obj\Debug\FileMoverConsole.exe
+F:\Advance DotNET\Module 4 Window Services\ADN OrderEntrySystem 4.1 Vang\ADN OrderEntrySystem 4.1 Vang\FileMoverConsole\obj\Debug\FileMoverConsole.pdb

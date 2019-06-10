@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="OrderEntrySystem.MultiProductView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:OrderEntrySystem"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <ResourceDictionary Source="SharedResources.xaml" />
+    </UserControl.Resources>
+    <Grid>
+        <DockPanel>
+            <StackPanel DockPanel.Dock="Bottom">
+                <local:PagingView Margin="0,4,0,0"/>
+                <local:NumberOfItemsSelectedView/>
+            </StackPanel>
+            <StackPanel HorizontalAlignment="Right" Orientation="Horizontal" DockPanel.Dock="Top" Margin="0,0,0,5" Height="30">
+                <ComboBox ItemsSource="{Binding Path=Conditions}" SelectedItem="{Binding Path=FilterCondition}" Width="150" Margin="0,4,5,0" Height="23" />
+                <TextBox Height="23" Width="150" Margin="0,4,5,0" Text="{Binding Path=SearchText}" />
+                <ContentControl Content="{Binding Path=FilterCommands}" ContentTemplate="{StaticResource NestedCommandTemplate}" />
+            </StackPanel>
+            <ListView ItemContainerStyle="{StaticResource ResourceKey=ListViewStyle}" ItemsSource="{Binding Path=SortedProducts}">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Width="75" DisplayMemberBinding="{Binding Path=Name}">
+                            <GridViewColumnHeader Content="Name" Command="{Binding Path=SortCommand}" CommandParameter="Name" />
+                        </GridViewColumn>
+                        <GridViewColumn Header="Price" Width="45" DisplayMemberBinding="{Binding Path=Price}" />
+                        <GridViewColumn Header="Condition" Width="75" DisplayMemberBinding="{Binding Path=Condition}" />
+                        <GridViewColumn Header="Location" Width="55" DisplayMemberBinding="{Binding Path=Location}"/>
+                        <GridViewColumn Header="Description" Width="100" DisplayMemberBinding="{Binding Path=Description}" />
+                        <GridViewColumn Header="Quantity" Width="45" DisplayMemberBinding="{Binding Path=Quantity}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </DockPanel>
+    </Grid>
+</UserControl>

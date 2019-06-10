@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="OrderEntrySystem.NumberOfItemsSelectedView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.Resources>
+        <ResourceDictionary Source="SharedResources.xaml"/>
+    </UserControl.Resources>
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <TextBlock Text="Number of items selected: " />
+                <ContentPresenter Content="{Binding Path=NumberOfItemsSelected}"/>
+            </StackPanel>
+            <ContentControl Content="{Binding Path=Commands}" ContentTemplate="{StaticResource NestedCommandTemplate}" />
+        </StackPanel>
+    </Grid>
+</UserControl>
